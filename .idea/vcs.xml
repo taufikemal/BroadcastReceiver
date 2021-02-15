@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BooksApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DataStorageApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImplicitIntent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImplicitIntentReceiver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KAMIbaru" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KAMIi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KAMIii" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQLiteApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TabNavigation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserInteraction" vcs="Git" />
+  </component>
+</project>
