@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="appwidget_id" type="id" />
+    <item name="appwidget_update" type="id" />
+    <item name="button_update" type="id" />
+</resources>
